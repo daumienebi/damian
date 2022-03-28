@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sakdauder
+- 👋 Hi, I’m @daumienebi
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Application development
 - 💞️ I’m looking to collaborate on mobile or web projects
