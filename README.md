@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daumienebi
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Application development
-- 💞️ I’m looking to collaborate on mobile or web projects
+- 💞️ I’m looking to collaborate on desktop,mobile or web projects
 - 📫 How to reach me (Twitter:@dyebi11)
 
 <!---
