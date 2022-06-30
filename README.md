@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daumienebi
+- 👋 Hi, I’m Derick
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Software development
 - 💞️ I’m looking to collaborate on desktop,mobile or web projects
